@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azharu71
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning html, css, javascript and python
+- 🌱 I’m currently learning html, css, javascript, php and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
