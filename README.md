@@ -2,8 +2,8 @@
 
 Keep learning even if you don't understand, it's better than not at all.
 
-👀 I'm interested in Web Programming and Machine Learning 
-📝 Electrical Engineering students
+-👀 I'm interested in Web Programming and Machine Learning 
+-📝 Electrical Engineering students
 
 
 
