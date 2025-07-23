@@ -1,11 +1,11 @@
 <h1 style="text-align: center">Hi My name is Azhar</h1>
 
-### Im interested in Web Programming and Machine Learning 
+### I'm interested in Web Programming and Machine Learning 
 
 Keep learning even if you don't understand, it's better than not at all.
 
 
-####Skills
+#### Skills
 
 ![skill](https://skillicons.dev/icons?i=php,mysql,css,html,bootstrap,tailwind,js,python,cpp,nodejs,bun)
 
