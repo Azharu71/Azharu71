@@ -10,7 +10,7 @@ Keep learning even if just a bit, it's better than not at all.
 
 #### Skills(learning)
 
-![skill](https://skillicons.dev/icons?i=php,mysql,css,html,bootstrap,tailwind,js,python,cpp,nodejs,arduino,unity)
+![skill](https://skillicons.dev/icons?i=php,mysql,css,html,bootstrap,tailwind,js,python,cpp,nodejs,arduino)
 
 #### Socials
 #### -
