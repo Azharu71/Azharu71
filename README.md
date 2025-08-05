@@ -1,8 +1,6 @@
 <h1 style="text-align: center">Hi My name is Azhar</h1>
 
-"Whether it is in clear water or a puddle, as long as the fish keeps swimming forward it will grow"
-<span>
--Koro Sensei.
+"Whether it is in clear water or a puddle, as long as the fish keeps swimming forward it will grow", Koro Sensei.
 
 - 👀 I'm interested in Web Programming and Machine Learning 
 - 📝 Electrical Engineering students
