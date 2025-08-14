@@ -10,7 +10,7 @@
 
 #### Skills(learning)
 
-![skill](https://skillicons.dev/icons?i=php,mysql,css,html,bootstrap,tailwind,js,python,cpp,nodejs,reactjs,arduino)
+![skill](https://skillicons.dev/icons?i=php,mysql,css,html,bootstrap,tailwind,js,python,cpp,nodejs,react,arduino)
 
 #### Socials
 #### -
